@@ -1,0 +1,5 @@
+YOUR NAME — RESUME PLACEHOLDER
+
+Replace this small file with your final PDF resume before launch. Then update resumePath in client/src/data/portfolio.ts if the filename changes.
+
+Suggested final path: /resume.pdf
